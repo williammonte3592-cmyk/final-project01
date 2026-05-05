@@ -10,3 +10,9 @@
     background-position: center;
     position: relative;
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 6%;
+}
