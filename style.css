@@ -145,6 +145,18 @@ h3{
     padding-top: 100px;
 
 }
-footer{
-    align-items: center;
+
+.facilities-col{
+    flex-basis: 31%;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.facilities-col img{
+    width: 100%;
+    border-radius: 10px;
+}
+.sub-header{
+    height: 50vh;
+    width: 100%;
 }
