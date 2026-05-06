@@ -171,3 +171,26 @@ h3{
     padding-top: 80px;
     padding-bottom:50px ;
 }
+.programs-col{
+    flex-basis: 32%;
+    background: #8ab6f38a;
+    border-radius: 15px;
+    margin-bottom: 10%;
+    padding: 30px 22px;
+    box-sizing: border-box;
+
+}
+h4{ 
+     text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.programs-col:hover{
+
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.527);
+}
+
+
+
+
