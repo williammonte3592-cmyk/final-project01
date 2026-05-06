@@ -16,7 +16,7 @@ nav{
     align-items: center;
     display: flex;
 
-}
+}   
 nav img{
     width: px;
     height: 150px;
@@ -144,4 +144,7 @@ h3{
     text-align: center;
     padding-top: 100px;
 
+}
+footer{
+    align-items: center;
 }
