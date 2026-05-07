@@ -3,6 +3,12 @@
 A multi-page static website for Frost College, showcasing programs, courses, and contact information.
 
 ---
+## Author information
+
+**Name:**  William Monte
+**Email:** williammonte3592@gmail.com
+**Github:**https://github.com/williammonte3592-cmyk/final-project01
+
 
 ## 📁 Project Structure
 
@@ -43,9 +49,9 @@ frost-college/
 
 ## 🛠️ Technologies Used
 
-- **HTML5** — Page structure and content
-- **CSS3** — Styling and layout (`style.css`)
-- **Vanilla JavaScript** — Form validation and interactivity (`script.js`)
+- **HTML** — Page structure and content
+- **CSS** — Styling and layout (`style.css`)
+- **JavaScript** — Form validation and interactivity (`script.js`)
 
 ---
 
@@ -59,12 +65,6 @@ No installation or build tools are required. This is a plain static website.
 2. Make sure all files are in the **same folder**
 3. Open `home.html` in your browser
 
-```bash
-# Option 1: Double-click home.html in your file explorer
-
-# Option 2: Use VS Code Live Server extension
-# Right-click home.html → "Open with Live Server"
-```
 
 ---
 
@@ -123,6 +123,26 @@ Ensure the following links are present in every HTML file:
 
 ---
 
-## 📝 License
+## Contact information
 
-© 2026 Frost College. All rights reserved.
+for questions, feedback, or contributions, please reach out:
+
+- **Email:** willliammonte3592@gmail.com
+- **Github:** github.com/williammonte3592-cmyk
+
+
+
+## 📝 License and copyright
+
+**copyright © 2026 Frost College. All rights reserved.
+
+This project is licenced under the MIT licence. See below for details:
+
+### MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
