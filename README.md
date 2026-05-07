@@ -14,7 +14,7 @@ A multi-page static website for Frost College, showcasing programs, courses, and
 
 ```
 frost-college/
-├── home.html          # Homepage / landing page
+├── index.html          # Homepage / landing page
 ├── programs.html      # Programs and courses page
 ├── contact.html       # Contact page
 ├── style.css          # Global stylesheet
@@ -30,7 +30,7 @@ frost-college/
 
 | Page | File | Description |
 |------|------|-------------|
-| Home | `home.html` | Landing page with hero section |
+| Home | `index.html` | Landing page with hero section |
 | Programs | `programs.html` | Courses and programs offered |
 | Contact | `contact.html` | Contact form and information |
 
@@ -63,7 +63,7 @@ No installation or build tools are required. This is a plain static website.
 
 1. Clone or download the project files
 2. Make sure all files are in the **same folder**
-3. Open `home.html` in your browser
+3. Open `index.html` in your browser
 
 
 ---
